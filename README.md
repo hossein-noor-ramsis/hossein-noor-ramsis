@@ -1,17 +1,16 @@
 <h1 align="left">Hey bro What's up? :)</h1>
 <h3>My name is Hossein Noor Ramsis and I'm a React Front-End Developer</h3>
-
 <br />
 <br />
 
 ###
 
 <h2>📊 GitHub Stats:</h1>
-
+<br />
+<br />
 <div align="center">
 <a href=""><img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Noor-Ramsis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a></br>
 </div>
-
 <br />
 <br />
 
@@ -19,6 +18,8 @@
 
 <h2 align="left">Coding with</h2>
 
+<br />
+<br />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="15" />
@@ -48,7 +49,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo"  />
 </div>
-
 <br />
 <br />
 
@@ -57,6 +57,5 @@
 <h2>🌐 Socials:</h1>
 <a href="https://www.instagram.com/hossein_noor_ramsis">My Instagram</a><br/>
 <a href="https://www.linkedin.com/in/hossein-noor-ramsis">My LinkedIn</a>
-
 <br />
 <br />
