@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey bro What's up? :)</h1>
 <h3>My name is Hossein Noor Ramsis and I'm a React Front-End Developer</h3>
 
 <br />
@@ -19,7 +19,7 @@
 
 <h2 align="left">Coding with</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
