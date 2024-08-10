@@ -37,6 +37,8 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
   <img width="15" />
+  <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="36" alt="MUI"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="sass logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="redux logo"  />
@@ -46,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo"  />
+  <img width="15" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="36" alt="vite"  />
 </div>
 <br />
 <br />
