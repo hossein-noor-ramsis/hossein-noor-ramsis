@@ -1,5 +1,5 @@
 <h1 align="left">Hey bro What's up? :)</h1>
-<h3>My name is Hossein Noor Ramsis and I'm a React Front-End Developer</h3>
+<h3>My name is Hossein Noor Ramsis and I'm a Front-End Developer</h3>
 <br />
 <br />
 
