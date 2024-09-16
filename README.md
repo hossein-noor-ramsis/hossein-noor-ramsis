@@ -57,7 +57,7 @@
 ###
 
 <h2>🌐 Socials:</h1>
-<a href="https://www.instagram.com/hossein_noor_ramsis">My Instagram</a><br/>
+<a href="https://www.instagram.com/hossein_noor_ramsis">My Instagram</a><br/><br/>
 <a href="https://www.linkedin.com/in/hossein-noor-ramsis">My LinkedIn</a>
 <br />
 <br />
@@ -65,22 +65,22 @@
 ###
 
 <h2>🔥 My Projects:</h1>
-<a href="https://c-1-hossein-noor-ramsis-projects.vercel.app">Weather Web App</a><br/>
-<a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-6/">Business Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-5/">To-do List</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-7/">Login Page</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-2/">Portfolio Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-3/">Login Page</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-3/">Business Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-7/">Parallax Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-1/">Business Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/D-4/">Dashboard Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-2/">Login Page</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-10/">Parallax Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-1/">Business Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-9/">Parallax Website</a><br />
-<a href="https://hossein-noor-ramsis.github.io/E-8/">Parallax Website</a><br />
+<a href="https://c-1-hossein-noor-ramsis-projects.vercel.app">Weather Web App</a><br/><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-6/">Business Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-5/">To-do List</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-7/">Login Page</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-2/">Portfolio Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-3/">Login Page</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-3/">Business Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-7/">Parallax Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-1/">Business Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/D-4/">Dashboard Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-2/">Login Page</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-10/">Parallax Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-1/">Business Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-9/">Parallax Website</a><br /><br/>
+<a href="https://hossein-noor-ramsis.github.io/E-8/">Parallax Website</a><br /><br/>
 <br />
 <br />
