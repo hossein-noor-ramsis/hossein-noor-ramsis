@@ -65,8 +65,8 @@
 ###
 
 <h2>🔥 My Projects:</h1>
-<a href="https://c-3-hossein-noor-ramsis-projects.vercel.app">Netflix Clone</a><br/><br/>
-<a href="https://c-1-hossein-noor-ramsis-projects.vercel.app">Weather Web App</a><br/><br/>
+<a href="https://ramsis-netflix.vercel.app/">Netflix Clone</a><br/><br/>
+<a href="https://ramsis-weather.vercel.app/">Weather Web App</a><br/><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-6/">Business Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-5/">To-do List</a><br /><br/>
