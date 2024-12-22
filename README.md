@@ -57,6 +57,7 @@
 ###
 
 <h2>🌐 Socials:</h1>
+<a href="https://t.me/hossein_noor_ramsis">My Telegram</a><br/><br/>
 <a href="https://www.instagram.com/hossein_noor_ramsis">My Instagram</a><br/><br/>
 <a href="https://www.linkedin.com/in/hossein-noor-ramsis">My LinkedIn</a>
 <br />
