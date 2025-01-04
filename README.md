@@ -93,5 +93,11 @@
 <a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-9/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-8/">Parallax Website</a><br /><br/>
+
+<br />
+<br />
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?hossein_noor_ramsis=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
