@@ -97,7 +97,7 @@
 <br />
 <br />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?hossein_noor_ramsis=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
