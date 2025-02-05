@@ -1,11 +1,4 @@
-<h1 align="left">Hey bro What's up? :)</h1>
-<h3>My name is Hossein Noor Ramsis and I'm a Front-End Developer</h3>
-<br />
-<br />
-
-###
-
-<h2 align="left">Coding with</h2>
+<h2 align="left">👀 Coding with</h2>
 
 <br />
 <br />
@@ -60,14 +53,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
 </div>
-<br />
-<br />
-
-###
-
-<h2>🌐 Socials:</h1>
-<a href="https://t.me/hossein_noor_ramsis">My Telegram</a><br/><br/>
-<a href="https://www.instagram.com/hossein_noor_ramsis">My Instagram</a><br/><br/>
 <br />
 <br />
 
