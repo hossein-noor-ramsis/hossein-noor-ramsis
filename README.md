@@ -1,4 +1,4 @@
-<h2 align="left">👀 Coding with</h2>
+<h2 align="left">👀 Coding with: </h2>
 
 <br />
 <br />
@@ -58,7 +58,7 @@
 
 ###
 
-<h2>🔥 My Projects:</h1>
+<h2>🔥 My Projects: </h1>
 <a href="https://ramsis-netflix.vercel.app/">Netflix Clone</a><br/><br/>
 <a href="https://ramsis-weather.vercel.app/">Weather Web App</a><br/><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br /><br/>
