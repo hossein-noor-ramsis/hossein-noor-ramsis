@@ -2,7 +2,7 @@
 
 <br />
 <br />
-<div align="center" max-width="700">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
@@ -82,13 +82,9 @@
 <a href="https://hossein-noor-ramsis.github.io/D-3/">Business Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-7/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-1/">Business Website</a><br /><br/>
-<a href="https://hossein-noor-ramsis.github.io/D-4/">Dashboard Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-2/">Login Page</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-10/">Parallax Website</a><br /><br/>
-<a href="https://hossein-noor-ramsis.github.io/E-1/">Business Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br /><br/>
-<a href="https://hossein-noor-ramsis.github.io/E-9/">Parallax Website</a><br /><br/>
-<a href="https://hossein-noor-ramsis.github.io/E-8/">Parallax Website</a><br /><br/>
 
 <br />
 <br />
@@ -96,5 +92,6 @@
 ###
 
 <h2>📊 WakaTime: </h1>
-
-<img alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<div align="center">
+  <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<div />
