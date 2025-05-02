@@ -3,7 +3,7 @@
 <br />
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass,npm,vite,vitest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite,graphql,figma,postman,vscode,webstorm,git,github" /><br/> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass,npm,vite,vitest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite,graphql,figma,postman,vscode,webstorm,git,github,c,cpp" /><br/> 
 </div>
 <br />
 <br />
