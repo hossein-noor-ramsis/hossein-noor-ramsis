@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" /><br/> 
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,prisma,postgresql,sqlite,graphql,npm,vite,vitest" /><br/> 
-    <img src="https://skillicons.dev/icons?i=figma,postman,vscode,webstorm,git,github,c,cpp" /><br/> 
+    <img src="https://skillicons.dev/icons?i=,,figma,postman,vscode,webstorm,git,github,c,cpp,," /><br/> 
 </div>
 <br />
 <br />
