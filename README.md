@@ -2,11 +2,11 @@
 
 <br />
 <br />
-<div align="center">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" /><br/> 
     <img src="https://skillicons.dev/icons?i=npm,vite,vitest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite,graphql" /><br/> 
-    <img src="https://skillicons.dev/icons?i=,,figma,postman,vscode,webstorm,git,github,c,cpp,," /><br/> 
-</div>
+    <img src="https://skillicons.dev/icons?i=,figma,postman,vscode,webstorm,git,github,c,cpp," /><br/> 
+</p>
 <br />
 <br />
 
