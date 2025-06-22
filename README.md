@@ -4,8 +4,8 @@
 <br />
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" /><br/> 
-    <img src="https://skillicons.dev/icons?i=npm,vite,vitest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite,graphql" /><br/> 
-    <img src="https://skillicons.dev/icons?i=,jest,figma,postman,vscode,webstorm,git,github,c,cpp," /><br/> 
+    <img src="https://skillicons.dev/icons?i=npm,vite,vitest,jest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite" /><br/> 
+    <img src="https://skillicons.dev/icons?i=figma,postman,vscode,vs,webstorm,rider,git,github,c,cpp,cs" /><br/> 
 </p>
 <br />
 <br />
