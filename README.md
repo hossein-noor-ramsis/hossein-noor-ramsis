@@ -2,13 +2,22 @@
 
 <br />
 <br />
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" /><br/> 
     <img src="https://skillicons.dev/icons?i=npm,vite,vitest,jest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite" /><br/> 
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,regex,vercel,vscode,visualstudio,postman,git,github" /><br/> 
 </p>
+
 <br />
 <br />
+
+###
+
+<h2>📊 WakaTime: </h1>
+<div align="center">
+  <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<div />
 
 ###
 
@@ -27,13 +36,3 @@
 <a href="https://hossein-noor-ramsis.github.io/E-2/">Login Page</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-10/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br /><br/>
-
-<br />
-<br />
-
-###
-
-<h2>📊 WakaTime: </h1>
-<div align="center">
-  <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-<div />
