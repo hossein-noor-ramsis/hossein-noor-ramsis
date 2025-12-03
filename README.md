@@ -16,9 +16,12 @@
 
 <h2>📊 WakaTime: </h1>
 
-<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- <div align="center">
   <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-</div>
+</div> -->
 
 <br />
 <br />
