@@ -20,7 +20,7 @@
 <br />
 
 <div align="center">
-  <img width="800" alt="ramsis's Codding Activity" src="https://wakatime.com/share/@hossein_noor_ramsis/52ed306c-be33-4796-91cc-9aa52db48929.svg" /><br>
+  <img width="800" alt="ramsis's Codding Activity" src="https://wakatime.com/badge/user/018ce3c0-7891-4b77-b229-d45f3b1c00bb.svg?style=flat-square" /><br>
     <br />
     <br />
   <img width="800" alt="ramsis's Top Languages" src="https://wakatime.com/share/@hossein_noor_ramsis/cf9165ae-12da-465b-959e-1ca301238244.svg" /><br>
