@@ -23,7 +23,7 @@
   <img width="800" alt="ramsis's Codding Activity" src="https://wakatime.com/badge/user/018ce3c0-7891-4b77-b229-d45f3b1c00bb.svg?style=flat-square" /><br>
     <br />
     <br />
-  <img width="800" alt="ramsis's Top Languages" src="https://wakatime.com/share/@hossein_noor_ramsis/2b784ad4-0738-4e01-9194-acf9abd0f467.svg" /><br>
+  <img width="800" alt="ramsis's Top Languages" src="https://wakatime.com/share/@hossein_noor_ramsis/c226ae29-4001-4ed2-99ed-a55bb5afd9cf.svg" /><br>
 </div>
 <!-- <div align="center">
   <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
