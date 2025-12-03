@@ -14,11 +14,17 @@
 
 ###
 
-<h2>📊 WakaTime: </h1>
+<h2>📊 WakaTime: </h2>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<br />
+<br />
 
+<div align="center">
+  <img width="800" alt="ramsis's Codding Activity" src="https://wakatime.com/share/@hossein_noor_ramsis/52ed306c-be33-4796-91cc-9aa52db48929.svg" /><br>
+    <br />
+    <br />
+  <img width="800" alt="ramsis's Top Languages" src="https://wakatime.com/share/@hossein_noor_ramsis/cf9165ae-12da-465b-959e-1ca301238244.svg" /><br>
+</div>
 <!-- <div align="center">
   <img width="800" alt="ramsis's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_noor_ramsis&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 </div> -->
@@ -28,7 +34,11 @@
 
 ###
 
-<h2>🔥 My Projects: </h1>
+<h2>🔥 My Projects: </h2>
+
+<br />
+<br />
+
 <a href="https://ramsis-netflix.vercel.app/">Netflix Clone</a><br/><br/>
 <a href="https://ramsis-weather.vercel.app/">Weather Web App</a><br/><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br /><br/>
@@ -43,3 +53,6 @@
 <a href="https://hossein-noor-ramsis.github.io/E-2/">Login Page</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-10/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-4/">Login Page</a><br /><br/>
+
+<br />
+<br />
