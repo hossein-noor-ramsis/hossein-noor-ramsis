@@ -45,7 +45,6 @@
 <a href="https://hossein-noor-ramsis.github.io/D-8/">Parallax Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-6/">Business Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/E-5/">To-do List</a><br /><br/>
-<a href="https://hossein-noor-ramsis.github.io/E-7/">Login Page</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-2/">Portfolio Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-3/">Business Website</a><br /><br/>
 <a href="https://hossein-noor-ramsis.github.io/D-7/">Parallax Website</a><br /><br/>
