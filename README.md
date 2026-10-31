@@ -34,6 +34,20 @@
 
 ###
 
+<h2>🧩 LeetCode: </h2>
+
+<br />
+<br />
+
+<div align="center">
+  <img width="800" alt="LeetCode" src="https://leetcard.jacoblin.cool/hossein-noor-ramsis?theme=dark&font=Laila" /><br>
+</div>
+
+<br />
+<br />
+
+###
+
 <h2>🔥 My Projects: </h2>
 
 <br />
