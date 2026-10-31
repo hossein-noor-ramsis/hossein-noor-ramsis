@@ -40,7 +40,7 @@
 <br />
 
 <div align="center">
-  <img width="800" alt="LeetCode" src="https://leetcard.jacoblin.cool/hossein-noor-ramsis?theme=dark&font=Laila" /><br>
+  <img width="800" alt="LeetCode" src="https://leetcard.jacoblin.cool/hossein-noor-ramsis?theme=dark&font=Laila&ext=contest" /><br>
 </div>
 
 <br />
