@@ -4,9 +4,9 @@
 <br />
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" /><br/> 
-    <img src="https://skillicons.dev/icons?i=npm,vite,vitest,jest,nodejs,express,mongodb,redis,prisma,postgresql,sqlite" /><br/> 
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,python,regex,vscode,visualstudio,git,github" /><br/> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass,regex" /><br/>
+    <img src="https://skillicons.dev/icons?i=npm,vite,vitest,jest,nodejs,express,prisma,postgresql,mysql,sqlite,redis,mongodb" /><br/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,vscode,visualstudio,arduino,git,github,docker" /><br/>
 </p>
 
 <br />
